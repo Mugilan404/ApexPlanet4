@@ -47,13 +47,7 @@ JavaScript (ES6) – Dynamic filtering and sorting
 
 Clone the repository
 
-git clone https://github.com/your-username/product-listing-task4.git
-
-
-Open the project folder
-
-cd product-listing-task4
-
+https://github.com/Mugilan404/ApexPlanet4.git
 
 Run the project by simply opening index.html in your browser
 
@@ -74,4 +68,4 @@ product-listing-task4/
 
 This project was developed as Task 4 during my internship at ApexPlanet Software Pvt Ltd.
 
-🔗 Connect with me on LinkedIn: [Your LinkedIn Profile URL]
+🔗 Connect with me on LinkedIn: www.linkedin.com/in/mugilan-ramar-4a7038258
